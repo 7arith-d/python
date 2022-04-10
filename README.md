@@ -1,3 +1,3 @@
 # demo
-pyton training/practice
+python training/practice
 
